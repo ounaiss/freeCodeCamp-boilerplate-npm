@@ -1,6 +1,6 @@
 {
-	"author": "Nejmeddine ounaiss",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Nejmeddine ounaiss",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
